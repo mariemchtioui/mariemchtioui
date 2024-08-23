@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariemchtioui
 - 👀 I’m interested in Datascience and AI 
-- 🌱 I’m currently learning computer sience
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me : chtiouimariaminf01@gmail.com / chtiouimariam314@gmail.com
 - 😄 Pronouns: ...
